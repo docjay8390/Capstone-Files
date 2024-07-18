@@ -1,0 +1,4 @@
+Decentralized File Storage System:
+
+Build a decentralized file storage solution using blockchain technology,
+allowing users to securely store and share files without relying on centralized servers.

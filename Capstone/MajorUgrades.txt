@@ -1,0 +1,16 @@
+Possible major update/upgrade to our Capstone Project: Barangay Pabanlag Hub.
+
+1) Real-Time Emergency Notifications: Send instant notifications to 
+residents via the website and SMS about emergencies such as natural disasters, health alerts, or safety threats.
+
+2) Online Documents Inventory: Residents can store their documents in the Barangay Pabanlag Hub. So, when
+they need it. they can pick it up in the barangay, through our website. 
+
+3) Business Profiles: Create a searchable database of local businesses with detailed profiles, 
+including contact information, services offered, and customer reviews. 
+This encourages residents to support local enterprises.
+
+4) Barangay Hub-Help Online: It's a features that help the residents in the barangay to find, apartment,
+small and big businesses such as, tailoring, sari-sari sote, convinient store, Hardware, etc.
+
+5) mamalit capstone project.
